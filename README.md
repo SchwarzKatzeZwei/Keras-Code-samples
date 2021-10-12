@@ -10,7 +10,7 @@ https://keras.io/examples/
   * [Semi-supervision and domain adaptation with AdaMatch(AdaMatchを用いたセミスーパビジョンとドメインアダプテーション)](Computer%20Vision/adamatch.ipynb)
   * [Convolutional autoencoder for image denoising(畳み込み式オートエンコーダーによる画像のノイズ除去)](Computer%20Vision/autoencoder.ipynb)
   * [OCR model for reading Captchas(Captchasを読み取るためのOCRモデル)](Computer%20Vision/captcha_ocr.ipynb)
-  * Compact Convolutional Transformers
+  * [Compact Convolutional Transformers(コンパクトな畳み込みトランス)](Computer%20Vision/cct.ipynb)
   * Consistency training with supervision
   * Next-Frame Video Prediction with Convolutional LSTMs
   * CutMix data augmentation for image classification
