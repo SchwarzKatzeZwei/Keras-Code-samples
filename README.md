@@ -13,5 +13,5 @@ https://keras.io/examples/
   * [Compact Convolutional Transformers(コンパクトな畳み込みトランス)](Computer%20Vision/cct.ipynb)
   * [Consistency training with supervision(監督による一貫性のあるトレーニング)](Computer%20Vision/consistency_training.ipynb)
   * [Next-Frame Video Prediction with Convolutional LSTMs(畳み込み型LSTMによるネクストフレームビデオ予測)](Computer%20Vision/conv_lstm.ipynb)
-  * CutMix data augmentation for image classification
+  * [CutMix data augmentation for image classification(画像分類のためのCutMixによるデータ補強)](Computer%20Vision/cutmix.ipynb)
   * [Multiclass semantic segmentation using DeepLabV3+(DeepLabV3+によるマルチクラスセマンティックセグメンテーション)](Computer%20Vision/deeplabv3_plus.ipynb)
