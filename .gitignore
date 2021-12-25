@@ -139,3 +139,5 @@ Thumbs.db
 *.png
 *.h5
 instance-level_human_parsing
+*.tar.gz
+val
