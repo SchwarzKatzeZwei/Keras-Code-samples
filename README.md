@@ -16,3 +16,4 @@ https://keras.io/examples/
   * [CutMix data augmentation for image classification(画像分類のためのCutMixによるデータ補強)](Computer%20Vision/cutmix.ipynb)
   * [Multiclass semantic segmentation using DeepLabV3+(DeepLabV3+によるマルチクラスセマンティックセグメンテーション)](Computer%20Vision/deeplabv3_plus.ipynb)
   * [Monocular depth estimation(単眼深度推定)](Computer%20Vision/depth_estimation.ipynb)
+  * [Image classification with EANet (External Attention Transformer)(EANet（外部注意変換器）による画像分類)](Computer%20Vision/eanet.ipynb)
