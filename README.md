@@ -1,6 +1,6 @@
 # Keras-Code-samples
 
-https://keras.io/examples/
+<https://keras.io/examples/>
 
 * Computer Vision
   * [Image classification from scratch(ゼロからの画像分類)](Computer%20Vision/image_classification_from_scratch.ipynb)
@@ -17,3 +17,4 @@ https://keras.io/examples/
   * [Multiclass semantic segmentation using DeepLabV3+(DeepLabV3+によるマルチクラスセマンティックセグメンテーション)](Computer%20Vision/deeplabv3_plus.ipynb)
   * [Monocular depth estimation(単眼深度推定)](Computer%20Vision/depth_estimation.ipynb)
   * [Image classification with EANet (External Attention Transformer)(EANet（外部注意変換器）による画像分類)](Computer%20Vision/eanet.ipynb)
+  * [FixRes: Fixing train-test resolution discrepancy(FixRes: 訓練とテストの解像度の不一致の修正)](Computer%20Vision/fixres.ipynb)
