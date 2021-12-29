@@ -19,3 +19,4 @@
   * [Image classification with EANet (External Attention Transformer)(EANet（外部注意変換器）による画像分類)](Computer%20Vision/eanet.ipynb)
   * [FixRes: Fixing train-test resolution discrepancy(FixRes: 訓練とテストの解像度の不一致の修正)](Computer%20Vision/fixres.ipynb)
   * [Grad-CAM class activation visualization(Grad-CAMクラスアクティベーションの可視化)](Computer%20Vision/grad_cam.ipynb)
+  * [Gradient Centralization for Better Training Performance(勾配集中化による学習性能の向上)](Computer%20Vision/gradient_centralization.ipynb)
