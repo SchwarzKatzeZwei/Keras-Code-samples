@@ -142,3 +142,4 @@ instance-level_human_parsing
 *.tar.gz
 *.tgz
 val
+__MACOSX
