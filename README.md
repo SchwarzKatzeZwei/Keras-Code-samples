@@ -22,3 +22,4 @@
   * [Gradient Centralization for Better Training Performance(勾配集中化による学習性能の向上)](Computer%20Vision/gradient_centralization.ipynb)
   * [Handwriting recognition(手書き文字認識)](Computer%20Vision/handwriting_recognition.ipynb)
   * [Image Captioning(画像キャプション)](Computer%20Vision/image_captioning.ipynb)
+  * [Image classification via fine-tuning with EfficientNet(EfficientNetを用いた転移学習による画像分類)](Computer%20Vision/image_classification_efficientnet_fine_tuning.ipynb)
